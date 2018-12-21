@@ -1,0 +1,15 @@
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\bin\Release\netcoreapp2.1\RESTAPI.deps.json
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\bin\Release\netcoreapp2.1\RESTAPI.runtimeconfig.json
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\bin\Release\netcoreapp2.1\RESTAPI.runtimeconfig.dev.json
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\bin\Release\netcoreapp2.1\RESTAPI.dll
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\bin\Release\netcoreapp2.1\RESTAPI.pdb
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.csproj.CoreCompileInputs.cache
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.RazorAssemblyInfo.cache
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.RazorAssemblyInfo.cs
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.AssemblyInfoInputs.cache
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.AssemblyInfo.cs
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.RazorTargetAssemblyInfo.cache
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.dll
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.pdb
+C:\Users\537702\source\repos\RESTAPI\RESTAPI\obj\Release\netcoreapp2.1\RESTAPI.csprojAssemblyReference.cache
